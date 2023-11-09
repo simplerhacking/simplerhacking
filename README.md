@@ -1,9 +1,15 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Simpler%20Hacking&fontSize=50&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
+
 
 <div align="center">
+<img width="1000" alt="header_1" src="https://github.com/simplerhacking/simplerhacking/assets/141525149/f46c5d14-ea3e-4259-a118-5ac33ed71ae1">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23FF00FF&size=24&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+SH.;I+love+teaching+cybersecurity.;Feel+free+to+connect+with+me+on+social+media!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23FF00FF&size=24&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Simpler+Hacking.;I+teach+cybersecurity.;Feel+free+to+connect+with+me+at+SimplerHacking.com.)](https://git.io/typing-svg)
+
+![Triforce_WebHero](https://github.com/simplerhacking/simplerhacking/assets/141525149/ae092906-a689-4584-804e-22adb0b666ac)
+
+![course-logos-big](https://github.com/simplerhacking/simplerhacking/assets/141525149/ed420789-fe93-4e93-9a83-86f888f214a8)
+
 
 </div>
 
