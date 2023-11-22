@@ -6,7 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23FF00FF&size=24&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Simpler+Hacking.;I+teach+cybersecurity.;Feel+free+to+connect+with+me+at+SimplerHacking.com.)](https://git.io/typing-svg)
 
-![Triforce_WebHero](https://github.com/simplerhacking/simplerhacking/assets/141525149/ae092906-a689-4584-804e-22adb0b666ac)
+![Triforce_WebHero (2)](https://github.com/simplerhacking/simplerhacking/assets/141525149/276bb6db-61ab-44d0-9c03-90ed820b712c)
+
 
 ![course-logos-big](https://github.com/simplerhacking/simplerhacking/assets/141525149/ed420789-fe93-4e93-9a83-86f888f214a8)
 
