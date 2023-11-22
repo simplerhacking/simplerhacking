@@ -1,22 +1,21 @@
 
 
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Simpler%20Hacking&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Security%20Architect%20|%20Programmer%20|%20Teacher%20|&desBloggerAlign=62)
+
 <div align="center">
-<img width="1000" alt="header_1" src="https://github.com/simplerhacking/simplerhacking/assets/141525149/f46c5d14-ea3e-4259-a118-5ac33ed71ae1">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23FF00FF&size=24&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Simpler+Hacking.;I+teach+cybersecurity.;Feel+free+to+connect+with+me+at+SimplerHacking.com.)](https://git.io/typing-svg)
-
-![Triforce_WebHero (2)](https://github.com/simplerhacking/simplerhacking/assets/141525149/276bb6db-61ab-44d0-9c03-90ed820b712c)
-
-
-![course-logos-big](https://github.com/simplerhacking/simplerhacking/assets/141525149/ed420789-fe93-4e93-9a83-86f888f214a8)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&color=%2300FF00&size=24&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+Profile.;I'm+Simpler+Hacking.;Also+known+as+S.H.;I+founded+www.SimplerHacking.com;An+innovative+education+platform.;Feel+free+to+connect+with+me.)](https://git.io/typing-svg)
 
 </div>
 
-## My Skills
+![6556ca0886a22948573c1845169e7a21](https://github.com/simplerhacking/simplerhacking/assets/141525149/feaa62b1-1e5d-4e32-8f39-32c7b0eaf856)
 
-### Programming languages
+
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
 
 <p align="left"> 
   &emsp;
@@ -41,7 +40,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" height="40"/>
 </p>
 
-### Frontend Development
+### 👉 Frontend Development
 <p align="left"> 
   &emsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="40"/>
@@ -59,7 +58,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux" height="40"/>
 </p>
 
-### Backend Development
+### 👉 Backend Development
 <p align="left">
   &emsp;
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="40"/>
@@ -75,7 +74,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="40"/>
 </p>
 
-### Database
+### 👉 Database
 <p align="left">
   &emsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="40"/>
@@ -87,7 +86,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" height="40"/>
 </p>
 
-### Software & Tools
+### 👉 Software & Tools
  
 <p>
   &emsp;
@@ -114,7 +113,7 @@
     <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" height="40"/>  
 </p>
 
-### Operating Systems
+### 👉 Operating Systems
 
 <p>
   &emsp;
@@ -129,8 +128,4 @@
 
 <br/>
 
-
-
-<br/>
-<br/>
 
